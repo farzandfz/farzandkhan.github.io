@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productivity on Your Name</title>
+    <link>http://localhost:1313/tags/productivity/</link>
+    <description>Recent content in Productivity on Your Name</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Doing Things Slowly</title>
+      <link>http://localhost:1313/essays/on-doing-things-slowly/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/on-doing-things-slowly/</guid>
+      <description>&lt;p&gt;This is your first essay. Write about a big idea, an observation, or something you&amp;rsquo;ve been thinking about for a while.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+/* ── About / Home Page Layout ── */
+.about-page {
+  display: flex;
+  align-items: flex-start;
+  gap: 3rem;
+  padding: 2rem 0;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.about-photo {
+  flex-shrink: 0;
+}
+
+.about-photo img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  border: 3px solid var(--border, #e5e7eb);
+}
+
+.about-content {
+  flex: 1;
+}
+
+.about-content h1 {
+  margin-top: 0;
+  font-size: 2rem;
+}
+
+.about-content p {
+  line-height: 1.75;
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+  color: var(--secondary, #555);
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .about-page {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .about-photo img {
+    width: 160px;
+    height: 160px;
+  }
+}

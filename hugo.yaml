@@ -1,0 +1,53 @@
+baseURL: "https://yoursite.com/"
+languageCode: en-us
+title: "Your Name"
+theme: PaperMod
+
+paginate: 10
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  env: production
+  title: "Your Name"
+  description: "Personal site"
+  author: "Your Name"
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowWordCount: false
+  ShowShareButtons: false
+
+  assets:
+    customCSS:
+      - css/custom.css
+
+  # Home page = profile/about mode
+  homeInfoParams:
+    Title: ""
+    Content: ""
+
+  # We'll use a custom home layout instead
+  profileMode:
+    enabled: false
+
+menu:
+  main:
+    - identifier: cryden
+      name: Cryden
+      url: /cryden/
+      weight: 10
+    - identifier: essays
+      name: Essays
+      url: /essays/
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
