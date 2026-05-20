@@ -10,7 +10,7 @@ cover:
     hiddenInList: true
 ---
 
-For a long time, I assumed self help books were simply motivational advice repackaged for different generations, but the more I looked at them, the more I began to see something else: **self-help literature is less about individuals and more about civilizations, and every era produces its own version of the ideal human that society is trying to manufacture at scale**
+For a long time, I assumed self help books were simply motivational advice repackaged for different generations, but the more I looked at them, the more I began to see something else: **Self help literature is less about individuals and more about civilizations, and every era produces its own version of the ideal human that society is trying to manufacture at scale** and a lot of it can be tied to finding meaning across different periods in history (will write about it soon)
 
 The early industrial era made this especially visible because as trade expanded, corporations grew and cities filled with strangers, success was no longer determined by craftsmanship or physical labor alone but increasingly by persuasion, negotiation and the ability to navigate professional relationships with people you had never met before. **It is no surprise that books like How to Win Friends and Influence People became some of the most widely read texts of that period, because the dominant form of leverage in an interconnected industrial society was social leverage and the person who understood people could move the world around them**
 
