@@ -7,6 +7,7 @@ cover:
     image: "images/journal.jpg"
     alt: "Journaling is good way to keep your thoughts in check"
     caption: ""
+    hiddenInList: true
 ---
 
 For a long time, I assumed self help books were simply motivational advice repackaged for different generations, but the more I looked at them, the more I began to see something else: **self-help literature is less about individuals and more about civilizations, and every era produces its own version of the ideal human that society is trying to manufacture at scale**
